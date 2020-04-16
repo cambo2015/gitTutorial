@@ -1,2 +1,2 @@
 const apple = "apple"
-const cheese - "cheese"
+const cheese = "cheese"
